@@ -236,8 +236,8 @@ LDOO/
 
 ## 📞 INFORMACIÓN DEL CURSO
 
-- 👤 **Estudiante:** Fernando Pérez
-- 🆔 **ID:** 1702824
+- 👤 **Estudiante:** Fernando Martinez
+- 🆔 **ID:** *****
 - 📚 **Materia:** Laboratorio de Diseño Orientado a Objetos (LDOO)
 - 📅 **Período:** 2024
 - 🏆 **Laboratorios:** 8/8 Completados
