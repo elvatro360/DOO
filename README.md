@@ -3,7 +3,7 @@
 > **Institución:** Universidad  
 > **Materia:** Laboratorio de Diseño Orientado a Objetos (LDOO)  
 > **Período:** 2024  
-> **Estudiante:** Fernando Pérez (1702824)
+> **Estudiante:** Fernando M
 
 ---
 
