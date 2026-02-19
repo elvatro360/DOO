@@ -722,7 +722,7 @@ Has completado exitosamente **8 laboratorios** progresivos que cubren:
 
 ---
 
-**Fernando Pérez | Estudiante ID: 1702824**
+**Fernando Martinez | Estudiante ID: 1702824**
 
 Fecha: 2024
 
