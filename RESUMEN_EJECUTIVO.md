@@ -386,11 +386,10 @@ Recomendación: EXCELENTE
 
 ## 📞 Información General
 
-- 👤 **Estudiante:** Fernando Pérez
-- 🆔 **ID Estudiantil:** 1702824
+- 👤 **Estudiante:** Fernando Martínez
 - 🏫 **Materia:** Laboratorio de Diseño Orientado a Objetos
 - 📚 **Institución:** Universidad
-- 📅 **Período:** 2024 (Semestre completo)
+- 📅 **Período:** 2014 (Semestre completo)
 - ✅ **Estado Final:** APROBADO CON HONORES
 
 ---
