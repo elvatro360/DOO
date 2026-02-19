@@ -240,7 +240,7 @@ TOTAL: 240 HORAS DE ESTUDIO
 ║                                                    ║
 ║  Recomendación: EXCELENTE                         ║
 ║                                                    ║
-║  Estudiante: Fernando Pérez (1702824)             ║
+║  Estudiante: Fernando Martinez                     ║
 ║  Fecha: 2024                                      ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
