@@ -2,7 +2,6 @@
 
 > **Institución:** Universidad  
 > **Materia:** Laboratorio de Diseño Orientado a Objetos (LDOO)  
-> **Período:** 2024  
 > **Estudiante:** Fernando M
 
 ---
